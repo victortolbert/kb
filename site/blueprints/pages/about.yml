@@ -1,0 +1,24 @@
+title: About
+preset: page
+fields:
+  address:
+    label: Address
+    type: textarea
+  email:
+    label: Email
+    type: email
+  phone:
+    label: Phone
+    type: tel
+  team:
+    label: Tech Team
+    type: structure
+    fields:
+      platform:
+        label: Platform
+        type: text
+        width: 1/2
+      url:
+        label: URL
+        type: url
+        width: 1/2

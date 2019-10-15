@@ -1,1 +1,51 @@
 Title: Home
+----
+Text:
+
+|                    |                 |                   |                    |              |     |
+| ------------------ | --------------- | ----------------- | ------------------ | ------------ | --- |
+| <kbd>⇧ Shift</kbd> | <kbd>^ Ctrl</kbd> | <kbd>⌥ Option</kbd> | <kbd>⌘ Command</kbd> | <kbd>K</kbd> |     |
+| <kbd>⇧ Shift</kbd> | <kbd>^ Ctrl</kbd> | <kbd>⌥ Option</kbd> | <kbd>⌘ Command</kbd> | <kbd>K</kbd> |     |
+
+Booster is a school fundraising company on a mission to change the world. We're serving 2.3 million students and 3,600 schools in 2019-2020.
+
+- https://boosterthon.com/about/
+- https://funrun.boosterthon.com/v3
+- https://funrun/v4
+  
+&lceil; foo bar &rceil;
+&lfloor; foo bar &rfloor; 
+
+
+Keyboard shortcuts to internalize and use
+VS Code
+⇧ Shift + ⌘ Command + E
+⇧ Shift + ⌘ Command + I
+Insert date string
+⇧ Shift + ⌘ Command + T
+Open last opened
+⇧ Shift + ⌘ Command + X
+⇧ Shift + ⌘ Command  + V
+View preview
+⌥ Option + ⇧ Shift + F
+Format Markdown Table
+⌘ Command + \ 
+Split screen
+^ Control + Down Arrow
+Show app windows
+⌥ Option + ⌘ Command + Spacebar 
+Show Finder Search
+
+^ Control + ⌥ Option + ⌘ Command  + N
+^ Control + ⌥ Option + ⌘ Command + W
+Arrange window Moom shortcut
+^ Control + ⌘ Command + F
+Toggle Full Screen
+^ Control + ⌘ Command + Spacebar
+Show Emoji Keyboard
+Chrome
+⌥  Option + ⌘ Command + J
+Developer's console
+⌘ Command + ⇧ Shift + T
+Open last closed tab
+Control + Space + Tab 

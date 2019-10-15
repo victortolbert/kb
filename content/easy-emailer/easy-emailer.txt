@@ -1,0 +1,19 @@
+Title: Easy Emailer
+----
+Description:  
+
+The Easy Emailer is an essential function for parents to ask their family/friends to make a pledge for their students. If the parent has entered an email in a previous event or funrun then it will be saved so that the parent can choose to send emails to their family and friends in future events as well. 
+----
+
+Text:
+
+## Get Pledges
+
+Business Logic/Functionality
+
+- Users have the ability to add an email individually
+- Users can add directly from their contact lists for the following; Gmail, Yahoo, Outlook
+- When a user is saved, but not currently receiving emails their status is Color: Yellow “Not Enrolled”
+- When a user is Enrolled their status is Color: Green “Active”
+- If the user makes a pledge while Active their status will become Color: Blue “Pledged”.
+- If the user decides to opt out after being sent an email their status will become Color: Red “Unsubscribed”.
