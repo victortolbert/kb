@@ -1,0 +1,1747 @@
+Title: Text dump of Data Dictionary
+-----
+
+## Table Of Contents
+
+- FAQ/Help Desk Pages - Not Logged In
+- FAQ/Help Desk Pages - Logged In
+- Auth Login Page
+- Sign up page
+- Forgot Password Page
+- Get Pledges
+- Get Pledges - Easy Emailer
+- Get Pledges - Share
+- Home Dashboard
+- Pay Online Pledges Now
+- Pay Online Pledges Now - Payment Details
+- Public Dashboard
+- Registration Page
+- Registration Page - Register Participant
+- Rewards Page
+- Locker Ads
+- My Pledges
+- My Pledges - My Sponsors
+- Student Dashboard
+- Stats Page
+- State Map
+- Edit Account Profile Page
+- Update Student Profile Page
+- Update Student Profile Page - About You
+- Update Student Profile Page - Personalize
+- Update Student Profile Page - View Participant Agreement
+- Locker Prizes
+- Locker Prize List - Create/Edit Prize
+- Task Lists Page
+- Task Lists Page - Edit Task List
+- Participants Page
+- Participants Page - View Participant
+- Participants Page - View Participant - Edit
+- Teachers Page
+- Sponsors Page
+- Parents Page
+- Classes Page
+- System Alerts
+- Convenience Fees
+- Global Components (Hyperlinks)
+- Additional Components (Tooltips)
+
+## FAQ/Help Desk Pages - Not Logged In
+
+The FAQ Pages are questions and answers that parents and/or sponsors may potentially have and can access on their own without reaching out to customer support. The Help Desk is a way for parents and/or sponsors to reach out to customer support for specific questions, which will be replied back via Zendesk.
+
+### Business Logic/Functionality
+
+- Clicking each question, will expand text displaying the answer. Each question can be clicked again to collapse the answer.
+- The User Type will default to “Sponsor” for the Help Desk.
+
+### FAQ (not logged in)
+
+**How do I log in?**
+
+Welcome! Easily log in by entering the e-mail address and password you created when signing up. If you have not signed up for an account yet, click the “Sign Up” button.
+
+**What if I lost or can’t remember my password?**
+
+No worries. Click “lost password,” and a temporary new password will be sent to your e-mail.
+
+**What if I didn’t receive my lost password email?**
+
+Contact us below and let us know your full name, the e-mail address you registered the account under, and the school’s name. We will be happy to reset your password for you.
+
+**How do I change my password?**
+
+After logging in, click the “Profile” link under your name—it’s located in the upper left part of the page. Click the “Change Password” button, and you’ll have the option to change your password. Pick a fun one!
+
+**As a sponsor, how can I make a pledge for a student?**
+
+That’s an easy one. You will just need the student’s Public Pledge Link, which can be found on the student’s dashboard. The parent/guardian who registered the student can give you the link. And thank you for your generosity!
+
+**How do I edit/delete a pledge?**
+
+If you are a sponsor, navigate to the link included in the confirmation e-mail you received right after making your pledge. If you did not receive this e-mail, please contact us below and let us know the name of the student and school you sponsored.
+If you are a parent, log into your account and click on the “My Pledges” tab. Click the “Edit” button next to the pledge you wish to change.
+Please note that you cannot edit/delete pledges after the event has completed. If you still want to make changes to a pledge, contact us below and let us know the pledge you’d like to edit. We’re happy to help you.
+
+**How do I pay online?**
+
+If your school is set up with an online payment option, please include an email address with your pledge. Sponsors will get a payment email at the time of their pledge and a reminder email once the event is completed. Please make sure to check your spam and junk folders, just in case.
+If you are a sponsor and did not receive these e-mails, please contact us below and let us know the name of the student and school you sponsored. We can then provide you with your link to easily pay online.
+
+**Why is the option to pay online not showing up on my account?**
+
+Schools also have the option to not accept online payments. If you have any questions about being able to pay online, contact us below. We can check to see if the school is accepting online payments.
+
+**How do I pay online if I live outside the country?**
+
+Don’t worry, world; you’re covered. Our online payment system accepts any Visa or Mastercard, even if you have an international address. The address fields can be left blank if they do not apply to you.
+
+**What is the payment process?**
+
+After the event, students will be sent home with a collection envelope and letter to help collect and turn in any cash or check payments from sponsors. Please send all cash and check payments to the school in this collection envelope. If your school is set up with an online payment option, sponsors can pay online instead of sending in cash or check.
+Sponsors who entered a valid email address with their pledges will also receive an email once the pledge is submitted and another reminder email the evening after the event with payment instructions. Sponsors should check their junk folder for the payment email if they have not received it. Also, please note that some email servers occasionally block these payment emails, so please communicate payment information to your sponsors.
+If sponsors choose to send check or cash directly to the school, please have them write on the check memo line: the student’s name and the grade, as well as our program—Boosterthon. Please do the same on a note for all cash payments as well. Remember, please do not make checks out to Boosterthon.
+
+- Data Points(Need Help - not logged in):
+  - User Type (default to Sponsor)
+  - Your Name
+  - Your Email
+  - Phone Number
+  - School Name
+  - Student First Name
+  - Student Last Name
+  - Issue Type (Select One)
+
+## FAQ/Help Desk Pages - Logged In
+
+The FAQ Pages are questions and answers that parents and/or sponsors may potentially have and can access on their own without reaching out to customer support. The Help Desk is a way for parents and/or sponsors to reach out to customer support for specific questions, which will be replied back via Zendesk.
+
+### Business Logic/Functionality
+
+The “Your Name” and the “Your Email” fields will prefill the Parent first and last name and the Parent email address. 
+No other fields are pre-selected or filled.
+
+### FAQ (logged in)
+
+**How do I edit/delete a pledge?**
+
+Simply go to "My Pledges" and click the yellow “Edit” button next to the owner of the pledge. Once the event is over, this editing option is no longer available. But if you would still like to make changes to a pledge, please contact our friendly Help Desk.. (We can’t wait to help you :)
+
+**What is the difference between pledge per lap and flat donation?**
+
+A pledged per lap amount will be multiplied by the number of laps the student will complete at the event (about 30 to 35 laps, with a lap max of 35).
+Example: If the sponsor makes a $1 pledge per lap and the student completes 30 laps, the sponsor donates $30 to the school. A flat donation is a gift that is not determined by the number of laps the student completes.
+
+**How are prizes awarded?**
+
+Rewards are given out based on the pledged per lap total of the student, but flat donations count too. $30 in flat donations equals $1 pledge per lap on the prize scale.
+Example: Students will reach the first prize level with a $1 pledge per lap or $30 in flat donations. Plus, all additional pledges recorded online continue to add up to reach higher Fitness Reward levels.
+
+**Do flat donations get rewarded?**
+
+Absolutely. Every $30 in flat donations is equal to $1 pledged per lap, since 30 laps is the average number of laps students typically complete. For example, $90 dollars donated is equal to $3 dollars pledged per lap and is credited to the reward scale as $3.
+
+**What is family pledging?**
+
+Family Pledging is a new feature on FunRun.com that allows parents with multiple children at a school to combine their students’ profiles into one profile. Sponsors can now pledge every student in a family with one click, saving time and processing fees.
+
+**As a parent, how do I activate it?**
+
+- If you only have one student in the program, Family Pledging will not affect you.
+- If you have more than one student, you’ll be given the option to turn it ON or OFF when you register your students on FunRun.com. Please note: Family Pledging will be turned ON by default.
+
+**Will Family Pledging work if my students are in two programs (Elementary/Middle School)?**
+
+Unfortunately, no. Family Pledging will be turned on for BOTH programs, but parents who have a student in two programs (i.e. a 4th grader and a 7th grader) will not be able to combine their profiles. This is something we’re looking into for the future.
+
+**Can sponsors pledge each student in a family a different amount?**
+
+Not exactly. When Family Pledging is ON, sponsors choose the size of their pledge (i.e. $1 Per Lap). That means they’re pledging that amount for ALL of the students in that particular family. For example, if Grandma clicks $1 pledge per lap, it means she is donating $30-$35 for ALL three grandkids. In that case, her total would be $90-$105.
+
+**Can I pledge students individually if Family Pledging is ON?**
+
+Unfortunately, no. To pledge students individually, Family Pledging will need to be turned off. (See previous question.)
+
+**Will I see multiple emails and charges for a pledge when Family Pledging is on?**
+
+Nope! You’ll receive a single email and a single charge for the pledge.
+
+**As a parent, how do I turn off Family Pledging for my kids?**
+
+To turn off Family Pledging, go to the Home Dashboard and click “Edit” on any of the profiles (with the exception of a teacher profile). From there, you can toggle the Family Pledging tab to Off.
+
+**What is a “Pending Pledge”?**
+
+Some pledges are marked as pending because our team needs to confirm with sponsors or parents about their large pledge amount. This helps ensure there are only fun “surprises” at the end of the program. The friendly Booster Team will contact parents and sponsors via phone or email to confirm pending pledges.
+
+**Why has my child not received his or her prize(s) yet?**
+
+Your student might have pending pledges. (see "What is a Pending Pledge?") Once the pledge is confirmed, your student will receive their prizes. A friendly Booster Team member will reach out to you.
+
+**I can’t add more pledges. Why not?**
+
+In most cases, the deadline to enter pledges is the day after the event, at 7:30 am, unless communicated differently. But if you’d like, you can send in any extra donations to the school even if the pledges were not entered into the system.
+
+**When is the pledge money due?**
+
+Please check the FAQs on the participant's page for your specific due date.
+
+**Who do I make checks out to?**
+
+For [Student First Name], make checks payable to: [Program Name].
+Please do not make checks out to Boosterthon.
+
+**How do I pay online?**
+
+If your school is set up with an online payment option, please include an email address with your pledge. Sponsors will get a payment email at the time of their pledge and a reminder email once the event is completed. Please make sure to check your spam and junk folders, just in case.
+
+**How do I pay online if I live outside the country?**
+
+Don’t worry, world; you’re covered. Our online payment system accepts any Visa or Mastercard, even if you have an international address. The address fields can be left blank if they do not apply to you.
+
+**What is the payment process?**
+
+After the event, students will be sent home with a collection envelope and letter to help collect and turn in any cash or check payments from sponsors. Please send all cash and check payments to the school in this collection envelope. If your school is set up with an online payment option, sponsors can pay online instead of sending in cash or check. Sponsors who entered a valid email address with their pledges will also receive an email once the pledge is submitted and another reminder email the evening after the event with payment instructions. Sponsors should check their junk folder for the payment email if they have not received it. Also, please note that some email servers occasionally block these payment emails, so please communicate payment information to your sponsors. If sponsors choose to send check or cash directly to the school, please have them write on the check memo line: the student’s name and the grade, as well as our program—Boosterthon. Please do the same on a note for all cash payments as well. Remember, please do not make checks out to Boosterthon.
+
+**Why is my payment not showing up?**
+
+Payments are entered into the system on the first due date, about one week after the Salesforce Test Elementary Fun Run is complete. If you submitted your payment after the due date, please allow 3-5 business days for the payment to be added to your account.
+
+**Why will my online payment not go through?**
+
+There are several reasons, so try these helpful steps:
+
+1. Double check to make sure you are entering the billing information exactly as it is on the card account.
+2. Try using a different Internet browser, especially if you’re using Safari. Try using Google Chrome or Mozilla Firefox. They tend to work best.
+3. Try using a different computer or mobile device to access our site and submit your payment.
+
+**Is my pledge tax deductible and do you give any receipts?**
+
+It’s likely your donation is tax deductible. It all depends on your school’s tax exemption status. So, please double check with your school or parent organization to verify if they are tax exempt. If your school has an online payment option and you pay online, a receipt will be emailed to the email on file afterward. For cash and check payments, most schools do not write receipts, but please contact your school to verify if they do or do not provide receipts. For contributions less than $250, a cancelled check or a bank record is sufficient documentation. And remember to hug your local accountant. Taxes are complicated.
+
+**Why does the website not show “paid” when I have paid?**
+
+Only if you paid for a pledge online will the pledge be marked as “paid.” If you pay by cash or check, you will need to verify your payment on the participant dashboard after the event.
+
+- Data Points(Need Help - logged in):
+  - I am a (select user type - no default selection)
+  - Your Name (prefills Parent first and last name)
+  - Your Email (prefills Parent email)
+  - Phone Number
+  - School Name
+  - Student First Name
+  - Student Last Name
+  - Issue Type (Select One)
+- FAQ (from Student Dashboard - logged in): same as FAQ logged in page.
+
+## Auth Login Page
+
+This is where KDMs and Boosterthon team members log into the admin portal.They can edit programs, participants, modify values and everything related to the front end side of the website.
+
+**Business Logic/Functionality**
+
+Only super admins can access this page
+
+The task lists on this page are ordered from newest to oldest
+
+There is a limit to the number of task lists that can be created
+
+If an email is used that is registered on the parent side (non-admin user) they will be redirected to the front-end, parent side once they log in.
+
+If “Remember Me” is pressed and the login is successful, when the user quits out of the browser and reopens it, navigating back to staging.boosterthon.com, they will already be logged into Locker
+
+- Data Points:
+  - Email
+  - Password
+- Hyperlinks:
+  - Remember Me
+  - Log In
+  - Forgot Password?
+  - Login with code
+  - Privacy Policy
+
+## Sign up page
+
+The sign up page is essentially the landing page for all potential parents/sponsors.
+
+**Business Logic/Functionality**
+
+- For business reasons we don’t allow users under the age of 18 to register through the sign up page.
+- Users may not use the same email twice as each email is tied to a parent/sponsor account.
+- Password length must be at least 6 characters in length.
+
+- Data Points:
+  - First Name
+  - Last Name
+  - Email
+  - Confirm Email
+  - Password
+  - Phone Number
+  - Month
+  - Day
+  - Year
+- Hyperlinks:
+  - Privacy Policy
+- Tooltips:
+  - Email Field
+  - Phone Num#heading=h.cmqvg14q9u5aber Field
+  - Birthday Field
+
+## Forgot Password Page
+
+For resetting forgotten passwords.
+
+- Business Logic/Functionality
+  - If an email is inputted into the Your Email field and “Reset Password” is pressed, an email is sent to your inbox to reset your password.
+- Data Points:
+  - Your Email field
+- Hyperlinks:
+  - X (the X in the upper right-hand corner of the frame, allows to navigate back to login page)
+  - Sign up.
+  - Reset Password
+
+## Get Pledges
+
+The Get Pledges page is the information portal for parents/teachers to begin the process of reaching out to potential sponsors for pledges. On this page you’ll find a video link, a phone script, information on the “Easy E-Mailer” feature, information on the how to create a student star video, and how to best share your public pledge page to maximize pledges.
+
+- Business Logic/Functionality
+  - Displays current “Get A Pledge” video.
+  - Once you click the “View Phone Script” a templated script displays for the parent to use. The button will change to display as “Hide Phone Script” once it is clicked. If it is clicked again, the template no longer shows and the button will change back to “View Phone Script”.
+- Data Points:
+  - Get A Pledge video  
+- Hyperlinks:
+  - Global Component (1)
+  - Global Component (2)
+  - Global Component (3)
+  - Global Component (8)
+  - Create "Student Star" video
+  - Use our Easy-Emailer
+  - Share your Pledge Page
+
+## Get Pledges - Easy Emailer
+
+The Easy Emailer is an essential function for parents to ask their family/friends to make a pledge for their students. If the parent has entered an email in a previous event or funrun then it will be saved so that the parent can choose to send emails to their family and friends in future events as well.
+
+- Business Logic/Functionality
+  - Users have the ability to add an email individually
+  - Users can add directly from their contact lists for the following; Gmail, Yahoo, Outlook
+  - When a user is saved, but not currently receiving emails their status is Color: Yellow “Not Enrolled”
+  - When a user is Enrolled their status is Color: Green “Active”
+  - If the user makes a pledge while Active their status will become Color: Blue “Pledged”.
+  - If the user decides to opt out after being sent an email their status will become Color: Red “Unsubscribed”.
+- Data Points:
+  - Parent Emails Added to the List
+  - Statuses “Pledged, Not Enrolled, Unsubscribed, Active”
+  - First Name
+  - Last Name
+- Hyperlinks:
+  - Global Component (1)
+  - Global Component (2)
+  - Global Component (3)
+  - Click here for an email template
+  - View Sample Emails
+
+## Get Pledges - Share
+
+The share page acts as a another communication portal for parents to ask for pledges via facebook or other site functionality.
+
+- Business Logic/Functionality
+  - If the parent has not yet uploaded an image to their student’s profile then the student star button will display as Color: Orange, “Create Student Star Video”.
+  - If the parent has uploaded an image for their student’s profile page then the student star button will display as Color: Blue, “Your Student Star video is ready to share!”.
+  - If Family Pledging is turned on the family icon will display next to the header.
+- Data Points:
+  - Public Pledge Link
+  - Student Star Video True/False
+- Hyperlinks:
+  - Global Component (1)
+  - Global Component (2)
+  - Global Component (3)
+  - Upload a picture
+  - Create Student Star Video
+  - Facebook Link (edit)
+  - Easy Emailer Link
+
+## Home Dashboard
+
+The home page is where parents or teachers can access all of their participants. It is the first page after login and registration.
+
+- Business Logic/Case:
+  - The page has no participants when a parent first registers and is greeted with a different looking page than a parent who already has participants registered.
+  - You can pay for or enter a pledge, register a student or teacher, edit participants and access the help desk.
+  - Does not display programs that are archived.
+  - Once the parent has pledged for a participant in another program (someone else’s account), two categories appear separating “My Participants” and “Participants I’ve Pledged”
+- Data Points:
+  - Participant
+  - Program
+  - Event Date
+  - Participants I’ve Pledged
+  - Participant Photograph
+  - Archived True/False
+- Hyperlinks:
+  - Global Component (2)
+  - Global Component (3)
+  - Pay Pledges Online
+  - Register a Student
+  - Register a Teacher
+  - haga clic aquí
+  - Enter Pledge
+  - View Participant’s Dashboard
+  - Edit
+  - Add Photo
+
+# #Pledge Process (Step 3)
+
+The third step of the pledge process is where the user has the option to either pay for the pledge online at that moment or pay later. There is various functionality that affects this page and the two options that appear.
+
+- Business Logic/Case:
+- Pay Online Now and Pay Later buttons that the user can switch between; by clicking the Pay Online Now button, the user will be able to enter their credit card information and submit a payment for the pledge immediately. If the user clicks the Pay Later button, the credit card fields disappear and they can submit the pledge and pay for it later.
+- The following settings can be configured in Locker
+    - If Online Payments is enabled, Pay Online Now will appear as an option during the pledge process; if Online Payments isn’t enabled, the option will not appear during the pledge process
+    - If Online Payments Required is enabled, ONLY Pay Online Now will appear as an option during the pledge process
+    - If Promote Pay Online Now is enabled, the Pay Online Now option will appear as the only clickable button, with a hyperlink below it saying “Or, Pay Later”, which, when clicked, will result in Pay Later being the only clickable button with a hyperlink below stating, “Or, Pay Online Now”, which can be switched back to the default on click
+    - If the Sponsor Convenience Fee is added, it will show up in the Payment Total box and be added to the total price of the pledge
+    - If the School Processing Fee AND Online Processing Fee are both added, then the user will see the additional amount in the Payment Total box with a checkbox by it allowing the user to opt in or out of paying the processing fee.
+- The ability to select the ‘State’ when filling out information to a credit card will be disabled when any country, besides the U.S., is selected.
+
+- Data Points:
+  - Credit Card Number
+  - CVV
+  - Month (Exp. Date of Card)
+  - Year (Exp. Date of Card)
+  - Billing Address
+  - City
+  - Zip (if U.S.)
+  - State
+  - Country
+  - First Name
+  - Last Name
+  - Email Address
+  - Phone Number
+  - Online Processing Fee (opt in or out, stored as flag)
+  - Payment Total
+- Hyperlinks:
+  - Global Component (2)
+  - Global Component (8)
+  - Go Back (goes back to the previous step of the pledge process)
+  - Submit Payment (goes forward to the confirmation page of the pledge process)
+  - X (in the upper right-hand corner that takes the user back to the page they came from)
+
+## Pay Online Pledges Now
+
+The Pay Online Pledges page has several functions, it may serve as a window for sponsors and parents to see what pledges their students has and what status they are in. You may also pay for any outstanding pledges at the “confirmed” status. The pledges are ordered from oldest to newest. We display the sponsor’s name, the participant they pledged, the pledge they made, and the estimated totals.
+
+- Business Logic/Functionality
+  - The Pay Online Button will not display for the user if there are no pledges to be paid.
+  - Once there are pledges on this page, they are ordered by oldest to newest pledges.
+- Data Points:
+  - Your Name
+  - Your Email
+  - Phone Number
+  - School Name
+  - Student First Name
+  - Student Last Name
+- Hyperlinks:
+  - Global Component (2)
+  - Global Component (3)
+
+## Pay Online Pledges Now - Payment Details
+
+This is the 2nd page of the Pay Online Pledges button workflow. It handles the process of taking the user’s name, details, and credit card information. Here the user will have selected at least 1 pledge to pay for on the previous page.
+
+- Business Logic/Functionality:
+  - The email field is always locked on this page.
+- Data Points:
+  - First Name
+  - Last Name
+  - Phone Number
+  - Address
+  - City
+  - Email
+  - State
+  - ZIP code
+  - Card Number
+  - Month
+  - Year
+  - Security Code (CVV)
+
+## Public Dashboard
+
+The public dashboard serves as a means for sponsors to pledge participants.
+
+- Business Logic/Functionality
+  - When Family Pledging is ON:
+
+Multiple student names will appear in the upper left-hand box
+
+In the upper left-hand box, the students’ profile pictures will cycle through every few seconds
+
+Multiple Student Star videos will appear on the page corresponding to each student that has uploaded a profile picture
+
+Under Current Pledges, the various students’ pledges will appear ranked from highest at the top, to lowest at the bottom
+
+Family Pledging logo is on the top right corner of the “SHARE YOUR PLEDGE PAGE” box
+
+The My Goal bar is a cumulative amount of all the participants’ in the family
+    - When Family Pledging is OFF:
+
+Just the student’s, whose public dashboard you’re on, name and profile picture will appear in the upper left-hand box
+
+Under Current Pledges, only the student’s, whose public dashboard you’re on, pledges will appear ranked from highest at the top, to lowest at the bottom
+
+Family Pledging logo is NOT PRESENT on the top right corner of the “SHARE YOUR PLEDGE PAGE” box
+
+The My Goal bar is just the goal and progress amount of the one participant selected
+    - If a participant has already met their goal, “My Goal” and its accompanying progress bar will not show up; it is only visible when the participant hasn’t met their goal yet.
+    - The Business Leaderboard features all of the Business pledges in the program, regardless of parent account or family, ranked from highest to lowest. The 6th highest pledge and lower are hidden under a collapsible tab that can be expanded by clicking the hyperlink “Show More”, which changes to “Show Less” that will collapse the tab when clicked
+    - Whichever student’s Public Dashboard link is used, that will be whose Pledge Page Message is displayed on the Public Dashboard
+    - The Program Description is set in Locker under Edit -> Content -> Overview Text Override
+
+- Data Points:
+- Copy & Share link
+- Total Pledged (Family Pledging On/Off considerations)
+- How many “Days Left!” until the Fun Run date
+- School goal (pictures that are uploaded that cycle through if multiple)
+- Intro video
+- Student Star video(s)
+- Pledge Page Message
+- Program Description
+- Current Pledges
+- Business Leaderboard
+
+- Hyperlinks:
+- HELP
+- ENTER PLEDGE(S)
+- Share on Facebook
+- Business Leaderboard business name that supplied their Business Website
+- Global Component (1)
+- Global Component (8)
+
+- Tooltip: There are no tooltips on this page.
+
+## Registration Page
+
+This page can be reached from the student’s dashboard and is the primary way that parents and teachers may register their students. A code is given to Teachers they may use to register themselves which is unique to them as it displays the Fun-Run dashboard pages differently. Parents are also given a code which is unique and will modify the way the pages display as well.
+
+- Business Logic/Functionality
+  - No Special Considerations
+- Data Points:
+  - Schools with active programs
+  - Validate Registration Codes
+- Hyperlinks:
+  - Global Component (1)
+  - Global Component (2)
+  - Global Component (3)
+  - Global Component (8)
+
+## Registration Page - Register Participant
+
+This is the 2nd page of the registration process. On this page the parent or teacher is asked for the first and last name of the student along with what class they are in. In order to reduce confusion we do ask if the person registering the participant is the parent or guardian.
+
+- Business Logic/Functionality:
+    - If the person registering the participant is not the parent/guardian we assume they will de-select the “I am this student’s parent/guardian” checkbox which will not allow them to create the student in the database.
+    - If the account has more than one participant already registered then the parent or teacher is asked if they would like to enable family pledging On/Off.
+    - Every parent/teacher must accept the participation agreement waiver.
+
+- Data Points:
+- First Name
+- Last Name
+- Classroom
+- Family Pledging Enabled On/Off
+- Time Agreement was signed
+
+- Hyperlinks:
+- Global Component (1)
+- Global Component (2)
+- Global Component (3)
+- Global Component (8)
+- Print Terms
+	
+- Tooltip: There are no tooltips on this page.
+
+## Rewards Page
+
+The rewards page allows sponsors or parents to examine the prizes Boosterthon offers and what prizes the student has earned. This page contains information related to prizes such as the donation amounts necessary to unlock a prize, prize videos, and the current status of your total pledges.
+
+-Business Logic/Functionality
+
+    - Each prize has a tier that unlocks once the pledge total amounts reach that value.
+    - Pending pledges are not counted towards the amounts needed to unlock prizes.
+    - Unit Type will change based upon the selection at the program level.
+    - PPLs are converted using the formula (1)PPL * 30 = 30$.
+    - Visually the prizes are at the red color status until the pledge amounts are reached after-which they will switch to a green color
+    - If the pledges are “pending” then the prize box will become yellow instead of green once the prize totals threshold is reached.
+
+- Data Points:
+- Unit Type
+- Pending Pledges
+- Non-Pending Pledges
+- Videos Connected To Prizes
+- Prize Images
+- Amounts Needed To Earn Prizes
+
+- Hyperlinks:
+- Global Component (1)
+- Global Component (2)
+- Global Component (3)
+- Global Component (4)
+- Global Component (8)
+- My Pledges
+
+- Tooltip:  
+- Rewards Page Btns (Non-Pending Pledges and Pending Pledges)
+- Rewards Page Btn (Pending Pledges)
+
+## Locker Ads
+
+The Ads page on Locker serves as the configuration page for the ads that appear in FunRun and in various emails.
+
+-Business Logic/Functionality
+
+    - Only system admins will have access to this page.
+    - Ads can be modified via HTML.
+
+- Data Points:
+- Homepage_Bottom Ad Text
+- Register_participant_welcome_email Ad Text
+- Parent_pledge_confirmation_email Ad Text
+- Sponsor_pledge_confirmation_email Ad Text
+- Payment_request_email Ad Text
+- Payment_receipt_email Ad Text
+- Student_dashboard_mobile Ad Text
+
+- Hyperlinks:
+- Global Component (5)
+	
+- Tooltips: There are no tooltips on this page.
+
+## My Pledges
+
+The My Pledges page is an easy way for parents to see what pledges their student has received, from whom, and what status they are at. This page is also configured to allow the parents to edit pledges if necessary.
+
+-Business Logic/Functionality
+
+    - The Pay Online Button will not display for the user if there are no pledges to be paid.
+    - Once there are pledges on this page, they are ordered by oldest to newest pledges.
+    - Pledges display a specific status which range from “Confirmed, Pending, Payment Scheduled, and Paid Online”.
+    - We show family pledges as individual pledges.
+    - [Total pledges] are derived from [Confirmed] + [Pending Pledges].
+    - $30 Flat donation = $1 Per [Unit Type].
+
+- Data Points:
+- First Name
+- Last Name
+- Pledge Type
+- Pledge Status
+- Email
+- Individual Pledge Amounts
+- Phone Number
+- State
+- Country
+- Sponsor Type
+- Total Pledge Amounts
+- Unit Type
+- Custom Message
+
+- Hyperlinks:
+- Global Component (1)
+- Global Component (2)
+- Global Component (3)
+- Global Component (8)
+
+- Tooltip:  
+- Pending Pledge
+- Payment Scheduled Pledge
+- Paid Pledge
+- Totals “Pending Pledge” box
+- Delete This Comment
+
+## My Pledges - My Sponsors
+
+The My Sponsors page lists the emails of current sponsor’s that have generously given a pledge to the parent student. This email allows the parent to send a quick templated “Thank you” email.
+
+-Business Logic/Functionality
+
+    - Displays only the emails of sponsors that have given the parent’s student a pledge.
+
+- Data Points:
+- Email of Sponsor
+- First Name
+- Last Name
+
+- Hyperlinks:
+- Global Component (1)
+- Global Component (2)
+- Global Component (3)
+- Global Component (8)
+
+- Tooltip:  
+- No Tooltips to consider.
+
+## Student Dashboard
+
+The student dashboard acts as the main access point of a particular participant allowing parents to navigate to all of the various avenues of that participant’s profile. This page has many objectives and acts as an information portal.
+
+-Business Logic/Functionality
+
+    - If Family Pledging is on, the Family Pledging icon will appear on the upper right-hand corner of the “SHARE YOUR PLEDGE PAGE” box that’s on the left-hand side of the page. If Family Pledging is off, then the icon will not be there
+    - The Business Leaderboard features all of the Business pledges in the program, regardless of parent account or family, ranked from highest to lowest. The 6th highest pledge and lower are hidden under a collapsible tab that can be expanded by clicking the hyperlink “Show More”, which changes to “Show Less” that will collapse the tab when clicked.
+    - The Program Description is set in Locker under Edit -> Content -> Overview Text Override
+    - If the student does not have a Student Star Video “Create Student Star Video” button shows up below video window, if an SSV has been created, “Your Student Star video is ready to share!” appears instead
+    - The unit type will change on this page based on what is selected at the program level in Locker
+    - If the program is Flat Donation only then all of the “per {unit}” language will be removed from the page
+
+- Data Points:
+- Program Name
+- Program Image
+- Global Component (3)
+- Intro video
+- Student Star video
+- Rewards carousel
+- Program Description
+- Sponsor
+- Business Leaderboard
+
+- Hyperlinks:
+- Global Component (1)
+- DASHBOARD
+- GET PLEDGES
+- STATS
+- MY PLEDGES
+- REWARDS
+- HELP
+- ALERTS
+- Global Component (3)
+- “OVERVIEW” and “CHARACTER VIDEOS” tabs
+- Create Student Star Video (if no SSV has been made)
+- Your Student Star video is ready to share! (if SSV has been made)
+- See progress and watch videos. (Rewards)
+- LEARN MORE (sponsor)
+- Program Description “read more”
+- Business Leaderboard business name that supplied their Business Website
+- Global Component (2)
+- Global Component (3)
+- Global Component (8)
+
+- Tooltip: There are no tooltips on this page.
+
+## Stats Page
+
+This Stats page displays the student’s Classroom Progress chart and the Pledge-O-Meter for all Classes chart. The Classroom Progress chart shows the student’s classroom progress compared to the classroom’s goal. The Pledge-O-Meter for All Classes chart will display the pledge-o-meter progress for each classroom in the program.
+
+-Business Logic/Functionality
+
+    - If no progress has been made for the class, then the Classroom Progress chart will not appear.
+    - If no progress has been made for a class, then the class will still appear on the Pledge-O-Meter for All Classes chart, but will display a “0” next to the class’ row.
+
+- Data Points:
+- Classroom Pledge Goal
+- Participant Pledge Goal
+- Pledge-O-Meter for All Classes (All Classroom Pledge Goals)
+
+- Hyperlinks:
+- Global Component (1)
+- Global Component (2)
+- Global Component (3)
+- Global Component (4)
+- Global Component (8)
+	
+- Tooltips: There are no tooltips on this page.
+
+## State Map 
+
+This State Map page displays a map of all the US states and highlights the states that the student has received pledges from.
+
+-Business Logic/Functionality
+
+    - If no progress has been made for the class, then the Classroom Progress chart will not appear.
+    - If no progress has been made for a class, then the class will still appear on the Pledge-O-Meter for All Classes chart, but will display a “0” next to the class’ row.
+
+- Data Points:
+- States (Pulled from State selected in Pledge Data - displayed on static US map)
+- Countries (Pulled from Country selected in Pledge Data)
+
+- Hyperlinks:
+- Global Component (1)
+- Global Component (2)
+- Global Component (3)
+- Global Component (4)
+- Global Component (8)
+
+- Tooltips: There are no tooltips on this page.
+
+## Edit Account Profile Page
+
+Allows parents to edit their profile information.
+
+-Business Logic/Functionality
+
+    - All of the fields are required, if any are left blank, it will result in a error and will not save changes
+    - If the birthday given is the age 19 or younger it will result in an error that says “There was an error with your registrations. Some information you entered is invalid. You will be be redirected to the login page in 60 seconds.” (be be is not an error on my part, it actually says that) You will not be able to edit your profile unless you log out and log back in, finding that the changes to your information were not saved.
+
+- Data Points:
+- First name
+- Last name
+- Email
+- Phone number
+- Birthday
+    - Month
+    - Day
+    - Year
+- Hyperlinks:
+- Global Component (2)
+- Global Component (3)
+- Change Password
+- Cancel (does not save changes)
+- Save Profile Info (saves changes)
+
+- Tooltip:
+- Email Field
+- Phone Number Field (Edit Sponsor Info)
+- Birthday Field
+
+## Update Student Profile Page 
+
+This page allows parents to edit their participants’ information. It has three subpages, which are listed below:
+
+## Update Student Profile Page - About You
+
+This page allows parents to enable family pledging, delete their participant, change the participant name, classroom, and pledge goal.
+
+-Business Logic/Functionality
+
+    - A parent can only delete a participant if there are no pledges or payments associated with the participant
+    - Enabling Family Pledging allows for multiple students to be pledged at the same time and affects a lot of functionality across the website
+    - Changing the pledge goal here will affect what’s displayed on the student and public dashboards
+
+- Data Points:
+- Student First Name
+- Student Last Name
+- Classroom
+- Enable Family Pledging
+- Pledge Goal - Editable Field
+- Pledge Goal - Display Box
+- Unit Type
+- Has Pledges True/False
+
+- Hyperlinks:
+- Global Component (2)
+- Global Component (8)
+- About You
+- Personalize
+- View Participant Agreement
+- Delete Participant (Opens modal window with the options below)
+    - No
+    - Yes
+- Cancel
+- Save and Continue
+
+- Tooltip: There are no tooltips on this page.
+
+## Update Student Profile Page - Personalize
+
+This page allows parents to upload and edit a profile picture and create/edit the pledge page message.
+
+-Business Logic/Functionality
+
+    - Uploading a profile picture will automatically start the job process of creating a Student Star video.
+    - Every time the user makes a change, edit or uploads a new photo and saves their changes, it restarts the Student Star process
+    - If the user deletes their profile picture, it cancels the Student Star process
+    - The Pledge Page Message is displayed on public page
+    - “Photo Editing Controls”, “Save Photo to Create Video” and “Delete” buttons appear only after a image is uploaded
+
+- Data Points:
+- Profile Picture
+- Pledge Page Message
+
+- Hyperlinks:
+- Global Component (2)
+- Global Component (8)
+- About You
+- Personalize
+- View Participant Agreement
+- Upload Photo
+- Privacy Policy
+- Share via Facebook, Email, and Text
+- Cancel
+- Save and Continue
+
+- Tooltip: There are no tooltips on this page.
+
+## Update Student Profile Page - View Participant Agreement
+
+This page allows parents to view the participant agreement.
+
+-Business Logic/Functionality
+
+    - None
+
+- Data Points:
+- None
+
+- Hyperlinks:
+- Global Component (2)
+- Global Component (8)
+- About You
+- Personalize
+- View Participant Agreement
+
+- Tooltip: There are no tooltips on this page.
+
+## Locker Prizes
+
+Allows admins to create, view, and edit prize lists.
+
+-Business Logic/Functionality
+
+    - Can only be accessed by super admins
+    - Can add prize lists from this page
+    - If no Vimeo ID is included on the child page (Create/Edit Prize), ‘No Video’ will show up under the Video column
+
+- Data Points:
+- Search Prizes
+- Prize Name
+- Prize Inventory Code
+- Picture
+- Video
+
+- Hyperlinks:
+- Global Component (5)
+- Add New Prize
+- Search (button)
+- View
+- Edit
+- Prize Image (If included)
+- Prize Video (If included)
+- Page Numbers
+- < (Previous Page)
+- > (Next Page)
+- First Page
+- Last Page
+
+- Tooltip: There are no tooltips on this page.
+
+## Locker Prize List - Create/Edit Prize
+
+Allows admins to Create/Edit a prize.
+
+-Business Logic/Functionality
+
+    - The ‘create new prize’ and ‘edit prize’ lead to the same page, except one allows the creation of a new prize whereas the other concerns the editing of an existing one
+    - If no Vimeo ID is included, ‘No Video’ will show up on the parent page under the Video column
+    - Both the name and the inventory code fields are required to submit, if one isn’t included, an error will result notifying that that specific field must be included
+
+- Data Points:
+- Name
+- Inventory Code
+- Image
+- Vimeo URL
+- Hyperlinks:
+- Global Component (5)
+- Select Photo (Create) / Upload Photo (Edit)
+- Submit
+
+- Tooltip: There are no tooltips on this page.
+
+## Task Lists Page
+
+Allows users to create and edit task lists.
+
+-Business Logic/Functionality
+
+    - New Task lists can be created
+    - Task lists that have been created will appear under ‘Current Lists’, which can be edited and deleted
+    - Can only be added by Super Admins
+
+- Data Points:
+- Task Lists
+- Task List Name (field that appears when ‘Create New Task List’ is clicked)
+- Hyperlinks:
+- Global Component (5)
+- Create New Task List (Creates dropdown)
+- Create (Under dropdown)
+- Edit Task List
+- Delete Task List
+
+- Tooltip: There are no tooltips on this page.
+
+## Task Lists Page - Edit Task List
+
+Allows users to edit the details of a task list.
+
+-Business Logic/Functionality
+
+- A user can delete and create new tasks within a task list on this page
+- Event Offset is based off of the Fun Run date
+- Even Offset skips over weekends (it only counts business days)
+- The Event can be either Fun Run or Pep Rally
+- Can only be edited by Super Admins
+- Data Points:
+- Task List Name
+- Add Task ‘Select One’ - dropdown
+- Event Offset (in business days) - dropdown
+- Event (select one) - dropdown
+- Current Tasks
+- Event Offset Value on Tasks
+
+- Hyperlinks:
+- Global Component (5)
+- Back to Lists
+- Update Name (for task list)
+- Add (task)
+- Delete (action button under ‘Current Tasks’)
+
+- Tooltip: There are no tooltips on this page.
+
+## Participants Page
+
+Allows admins to create, sort, view, and edit participants as well as add cash, check, or cmg payments. Can also look up notes, access codes, classes, and teachers of participants.
+
+-Business Logic/Functionality
+
+    - Can use sorting mechanisms to sort the participants by first name, last name, grade, teacher, access code and note.
+    - Can choose to show only participants with pending pledges or all participants of program. On click, the button changes to “Show All Participants” and the page will show only the participants with pending pledges. When a user clicks the button again, it results back.
+
+- Data Points:
+- Search
+- Grade (dropdown selector tab)
+- Teacher (dropdown selector tab)
+- First Name
+- Last Name
+- Grade
+- Teacher
+- Access Code
+- Note
+
+- Hyperlinks:
+- Global Component (5)
+- Global Component (6)
+- Show Only Participants With Pending Pledges (when clicked, turns into hyperlink below)
+- Show All Participants
+- Add Participant
+- View (Subpage of Users)
+- Edit (Subpage of Users)
+- Add $
+- Pledge(s)
+- Note(s)
+- Access Code (sort column)
+- Note (sort column)
+- Previous (page)
+- Next (page)
+
+- Tooltip: There are no tooltips on this page.
+
+## Teachers Page
+
+Allows admins to sort, view, and edit teachers as well as add cash, check, or cmg payments. Can also look up/sort by program group name, access codes, classes, and grades.
+
+-Business Logic/Functionality
+
+    - Can use sorting mechanisms to sort the participants by first name, last name, grade, class, access code and program group name.
+    - Does not display any deleted teachers
+
+- Data Points:
+- Search
+- First Name
+- Last Name
+- Grade
+- Teacher
+- Access Code
+- Program Group Name
+
+- Hyperlinks:
+- Global Component (5)
+- Global Component (6)
+- View
+- Edit
+- Add $
+- Pledge(s)
+- Grade (sort column)
+- Class (sort column)
+- Access Code (sort column)
+- Program Group Name (sort column)
+- Previous (page)
+- Next (page)
+
+- Tooltip: There are no tooltips on this page.
+
+## Sponsors Page
+
+Allows admins to sort, view, and edit sponsors as well as look up/sort by first name, last name, email, phone number, and access code.
+
+-Business Logic/Functionality
+
+    - Can use sorting mechanisms to sort the participants by first name, last name, email, phone number, and access code.
+
+- Data Points:
+- Search
+- First Name
+- Last Name
+- Email
+- Phone
+- Access Code
+
+- Hyperlinks:
+- Global Component (5)
+- Global Component (6)
+- View
+- Edit
+- Email (sort column)
+- Phone (sort column & FaceTime Hyperlink)
+- Access Code (sort column)
+- Previous (page)
+- Next (page)
+
+- Tooltip: There are no tooltips on this page.
+
+
+
+Default Pledge Amount
+
+Allows admins to set a default PPU and Flat pledge amount for even and odd parent IDs.
+
+-Business Logic/Functionality
+
+- “Even” and “Odd” pertain to the ID of the parents affected by the settings under these two categories (for example: even numbered parent IDs will have the default pledge amounts set in the “Defaulted Even {PPU/Flat} Pledge Amount” column)
+- The numbers the admin can enter into the Per {Unit} or Flat columns will be the default values that will show up in the pledge process for a sponsor to choose from
+
+- Data Points:
+- Per Lap Odd (Top To Bottom) [text/number field]
+- Per Lap Even (Top To Bottom) [text/number field]
+- Flat Odd (Top To Bottom) [text/number field]
+- Flat Even (Top To Bottom) [text/number field]
+
+- Hyperlinks: None
+
+- Tooltip: There are no tooltips on this page.
+
+
+
+Recommended Pledge Amounts
+
+Allows admins to set which default PPU and Flat pledge amounts will be pre-selected during the pledge process as “Recommended Pledge Amounts”
+
+-Business Logic/Functionality
+
+- “Even” and “Odd” pertain to the ID of the parents affected by the settings under these two categories (for example: even numbered parent IDs will have the default pledge amounts set in the “Defaulted Even {PPU/Flat} Pledge Amount” column)
+- The radial buttons in the Defaulted Pledge Amount columns will influence which default value will be pre-selected for the sponsor in the pledge process
+- Admins can choose to unselect a radial button, opting for no default pledge amount to be selected
+
+- Data Points:
+- Defaulted Odd Pledge Amount [Radial Button]
+- Defaulted Even PPU Pledge Amount [Radial Button]
+- Defaulted Odd PPU Pledge [Radial Button]
+- Defaulted Even Flat Pledge Amount [Radial Button]
+
+- Hyperlinks: None
+
+- Tooltip: There are no tooltips on this page.
+
+
+
+System Alerts
+This page allows admins to customize alerts to be displayed in a specific part of the system.
+
+-Business Logic/Functionality
+
+    - Only System Admins will have access to this page.
+    - There is a max of 500 alphanumeric characters that can be entered for the alert.
+
+- Data Points:
+- Home Page
+- Student Dashboard
+- Public Dashboard
+- Locker
+- Select a Color for the Alert
+
+- Hyperlinks:
+- Global Component (5)
+	
+- Tooltips: There are no tooltips on this page.
+
+
+
+Parents Page
+
+Allows admins to sort, view, and edit parents as well as look up/sort by first name, last name, email, phone number, access codes, and program group names.
+
+-Business Logic/Functionality
+
+    - Can use sorting mechanisms to sort the participants by first name, last name, email, phone number, access codes, and program group names.
+
+- Data Points:
+- Search
+- First Name
+- Last Name
+- Email
+- Phone
+- Access Code
+- Program Group Name
+- Hyperlinks:
+- Global Component (5)
+- Global Component (6)
+- View
+- Edit
+- Email (sort column)
+- Phone (sort column & FaceTime Hyperlink)
+- Access Code (sort column)
+- Program Group Name (sort column)
+- Previous (page)
+- Next (page)
+
+- Tooltip: There are no tooltips on this page.
+
+## Classes Page
+
+Allows admins to create, sort, view, and edit classes as well as look up/sort by grade, class name, # of participants, student registration codes and # missing {units}. A user can also upload a class list, add all missing {Unit types}, add participants and add {Unit types}.
+
+-Business Logic/Functionality
+
+    - Can use sorting mechanisms to sort the participants by grade, class name, # of participants, student registration codes and # missing {Unit types}.
+
+- Data Points:
+- Search
+- Grade
+- Class Name
+- No. Participants
+- Student Registration Code
+- No. Missing {Unit types}
+
+- Hyperlinks:
+- Global Component (5)
+- Global Component (6)
+- Add a Class
+- Upload Class List
+- Add All Missing {Unit types}
+- View
+- Edit
+- Add Participant
+- Add {Unit types}
+
+- Tooltip: There are no tooltips on this page.
+
+## Classes Page - Add a Class
+
+Allows admins to create a class with a class name, number of students, “Pledge O’Meter Goal”, grade and group.
+
+-Business Logic/Functionality
+
+- None to consider
+
+- Data Points:
+- Class Name
+- # of Students
+- Pledge O’Meter Goal
+- Grade
+- Group
+
+- Hyperlinks:
+- Global Component (5)
+- Global Component (6)
+- Add Class (creates the class, and refreshes the page)
+
+- Tooltip: There are no tooltips on this page.
+
+## Classes Page - Upload Class List
+
+Allows users to upload class lists from their computers, select a particular group and set the Pledge O’Meter Goal *per {unit type}.
+
+-Business Logic/Functionality
+
+- None to consider
+
+- Data Points:
+- Group
+- Pledge O’Meter Goal
+- Class List
+
+- Hyperlinks:
+- Global Component (5)
+- Global Component (6)
+- Submit;
+
+- Tooltip: There are no tooltips on this page.
+
+## Classes Page - Add All Missing {Unit Types}
+
+Allows admins to view all of the students, within the program, with PPU pledges AND missing {unit types}; admins can enter, edit, and save {unit types} for multiple students at a time.
+
+-Business Logic/Functionality
+
+- Only displays on and after the day of the fun-run and after participants with PPU pledges (pending, confirmed, and scheduled) AND must be missing {unit types}.
+
+- Data Points:
+- Student First Name
+- Student Last Name
+- {Unit types}
+- Grade
+- Class
+
+- Hyperlinks:
+- Global Component (5)
+- Global Component (6)
+- Save {unit types} (refreshes page)
+
+- Tooltip: There are no tooltips on this page.
+
+## Classes Page - View Class
+
+Allows admins to sort and view participants by first and last name, grade, class access code, user group, program name, and unit types.
+
+-Business Logic/Functionality
+
+- If participants are deleted, they will not show up on this list
+- Allows KDMs/Admins to enter laps for the participants
+
+- Data Points:
+- Student First Name
+- Student Last Name
+- Grade
+- Class
+- Access Code
+- User Group
+- Program Group Name
+- {Unit Types}
+
+- Hyperlinks:
+- Global Component (5)
+- Global Component (6)
+- View
+- Edit ({Unit Types})
+- Show X entries
+- Previous & Next (page)
+
+- Tooltip: There are no tooltips on this page.
+
+## Classes Page - Edit Class
+
+Allows admins to edit the name, grade, # of students, and Pledge O’Meter Goal of a class as well as access the student and teacher registration codes.
+
+-Business Logic/Functionality
+
+- Cannot delete a class that has participants
+- Text beside the pledge-o-meter goal changes based on program selection “Flat Donation: On” from “per lap” to “Total Amount”.
+
+- Data Points:
+- Class Name
+- Class Grade
+- No. of students
+- Pledge O’Meter Goal
+- Student Registration Code
+- Teacher Registration Code
+
+- Hyperlinks:
+- Global Component (5)
+- Global Component (6)
+- Update (refreshes page)
+- Delete (stays on page)
+
+- Tooltip: There are no tooltips on this page.
+
+## Classes Page - Add Participant
+
+Allows an admin to add a participant to a particular class; can specify the participant first name, last name, participant type, and classroom.
+
+Business Logic/Functionality
+
+- You cannot register a user with the same FirstName/Lastname in the same class
+
+- Data Points:
+- Student First Name
+- Student Last Name
+- Participant Type
+- Classroom
+
+- Hyperlinks:
+- Global Component (5)
+- Global Component (6)
+- Submit (refreshes)
+
+- Tooltip: There are no tooltips on this page.
+
+## Classes Page - Add {Unit Types}
+
+Allows admins to view all of the students, in a particular class, and add, edit or save {unit types}; can save {unit types} for multiple students at a time.
+
+Business Logic/Functionality
+
+- This page shows all of the students within a particular class, contrary to Add All Missing Laps page, which pertains to all of the students of that particular program
+- When “Flat Donation: On” this page will display a message “{Unit Types} cannot be entered because the program is set to flat donation only.”
+
+- Data Points:
+- Student First Name
+- Student Last Name
+- {Unit types}
+- Grade
+- Class
+
+- Hyperlinks:
+- Global Component (5)
+- Global Component (6)
+- Save {Unit Types} (refreshes page)
+
+- Tooltip: There are no tooltips on this page.
+
+## Users Tab
+
+Allows admins to search and sort users by First Name, Last Name, and Email. Also enables admins to quick create a new user with First Name, Last Name, and Email fields as well as edit existing users, which is under the “Actions” column on the data table.
+
+Business Logic/Functionality
+
+    - Can use sorting mechanisms to sort the users by First Name, Last Name, and Email.
+    - Can sync user related data with salesforce
+    - No users will appear in the data table unless you search for a user by selecting a “Search By” option, typing in the user’s name in the text field and then pressing the “Search” button
+
+- Data Points:
+- -Search By- (dropdown)
+    - First Name
+    - Last Name
+    - Email
+- First Name (display on list)
+- Last Name (display on list)
+- Email (display on list)
+- First Name (text field on Quick Create New User)
+- Last Name (text field on Quick Create New User)
+- Email (text field on Quick Create New User)
+- Showing X to X of X entries
+
+- Hyperlinks:
+- Global Component (5)
+- sync with salesforce
+- Search
+- Edit
+- Submit (Quick-Create New User)
+- Previous (page)
+- Next (page)
+
+- Tooltip: There are no tooltips on this page.
+
+## User Groups Tab
+
+Allows admins to create new, edit or delete existing, and sort by type all User Groups. Quick creating a new group requires Name, Description and Type fields to be set.
+
+Business Logic/Functionality
+
+    - Quick creating a new group must have a unique Name to be created.
+    - There’s a dropdown menu that allows the admin to sort groups based on type
+    - Types Of User-Groups: Internal, External, Internal-External, Team.
+
+- Data Points:
+- Name
+- Description
+- Type
+
+- Hyperlinks:
+- Global Component (5)
+- Edit
+- Delete
+- Submit (Quick-Create New Group)
+
+- Tooltip: There are no tooltips on this page.
+
+## User Groups Tab - Edit User Group
+
+Allows admins to edit the desired user group by adjusting the Name, Description, and Type.
+
+-Business Logic/Functionality - None to consider
+
+- Data Points:
+- Name
+- Description
+- Type
+
+- Hyperlinks:
+- Global Component (5)
+- Submit
+
+- Tooltip: There are no tooltips on this page.
+
+## Schools Tab
+
+Allows admins to search, sort and ultimately manage schools. Admins can access schools’ programs, merchant accounts, and locker administrators. The admin can also sort by School Name, Type, City, and State.
+
+-Business Logic/Functionality - None to consider.
+
+- Data Points:
+- School Name
+- Type
+- City
+- State
+
+- Hyperlinks:
+- Global Component (5)
+- Programs
+- Merchant Account
+- Locker Administrators
+
+- Tooltip: There are no tooltips on this page.
+
+# #Schools Tab - Programs
+
+Allows admins to search, sort and view various programs for a school. Admins can sort by school name, CC, semester, pep rally date, and fun run date.
+
+-Business Logic/Functionality - None to consider.
+
+
+- Data Points:
+- School Name
+- CC
+- Semester
+- Pep Rally
+- Fun Run
+
+- Hyperlinks:
+- Global Component (5)
+- Programs
+- Merchant Account
+- Locker Administrators
+- View
+- Previous (page)
+- Next (page)
+
+- Tooltip: There are no tooltips on this page.
+
+## Schools Tab - Merchant Account
+
+Allows admins to edit the Braintree Merchant Account Details of a particular school.
+
+-Business Logic/Functionality - None to consider.
+
+
+- Data Points:
+- Point Person
+    - First Name
+    - Last Name
+    - Email
+    - Phone Number
+    - Date of Birth
+
+Month
+
+Day
+
+Year
+    - Address
+    - City
+    - State
+    - Zip
+- Organization
+    - Legal Name
+    - Federal Tax ID
+    - Address
+    - City
+    - State
+    - Zip
+- Funding Destination
+    - Routing Number
+    - Account Number
+    - Deposit Schedule
+    - Accept Terms of Service
+
+- Hyperlinks:
+- Global Component (5)
+- Programs
+- Merchant Account
+- Locker Administrators
+- Terms of Service
+- Submit
+
+- Tooltip: There are no tooltips on this page.
+
+## Schools Tab - Locker Administrators
+
+Allows admins to create and manipulate locker administrators. You can enter the first and last name including an email of whom you wish to make a locker admin. Then you can choose to resend the welcome email to that admin, delete the admin, or check a box whether or not they are to receive task emails.
+
+-Business Logic/Functionality:
+
+- The admin can reset the admin’s password
+- The admin can also send the welcome email
+
+- Data Points:
+- First Name (text field)
+- Last Name (text field)
+- Email (text field)
+- First Name (data table)
+- Last Name (data table)
+- Email (data table)
+- Receive task emails (checkbox)
+
+- Hyperlinks:
+- Global Component (5)
+- Programs
+- Merchant Account
+- Locker Administrators
+- Previous (page)
+- Next (page)
+
+- Tooltip: There are no tooltips on this page.
+
+## Schools Tab - School Info
+
+Allows admins to edit the information of the school.
+
+-Business Logic/Functionality - None to consider.
+
+- Data Points:
+- Name
+- Address
+- City
+- State
+- Zip Code
+- US Timezone
+- County
+- Country
+- Abbreviation/initials
+
+- Hyperlinks:
+- Global Component (5)
+- Programs
+- Merchant Account
+- Locker Administrators
+- Submit
+- Previous (page)
+- Next (page)
+
+- Tooltip: There are no tooltips on this page.
+
+## Convenience Fees
+
+Allows admins to search and sort users by First Name, Last Name, and Email. Also enables admins to quick create a new user with First Name, Last Name, and Email fields as well as edit existing users, which is under the “Actions” column on the data table.
+
+-Business Logic/Functionality
+
+    - Can use sorting mechanisms to sort the users by First Name, Last Name, and Email.
+    - Can sync data with salesforce
+    - No users will appear in the data table unless you search for a user by selecting a “Search By” option, typing in the user’s name in the text field and then pressing the “Search” button
+
+- Data Points:
+- -Search By- (dropdown)
+    - First Name
+    - Last Name
+    - Email
+- First Name (display on list)
+- Last Name (display on list)
+- Email (display on list)
+- First Name (text field on Quick Create New User)
+- Last Name (text field on Quick Create New User)
+- Email (text field on Quick Create New User)
+- Showing X to X of X entries
+
+- Hyperlinks:
+- Global Component (5)
+- sync with salesforce
+- Search
+- Edit
+- Submit (Quick-Create New User)
+- Previous (page)
+- Next (page)
+
+- Tooltip:
+    - Online Convenience Fee
+
+The sponsor convenience fee is paid to Boosterthon to cover the cost of your online transaction. Bypass the fee by selecting "Pay Later" and pay with either cash or check.
+
+## Global Components (Hyperlinks)
+
+- Global Component (1): Privacy Policy, Give Us Feedback, Facebook Like Button
+- Global Component (2): Home, Pledges, Participant Dropdown: (Enter Pledge, Dashboard, Get Pledges, Stats, My Pledges, Rewards, Alerts, Edit My Page), Help, My Profile Dropdown: (Edit Profile, Log Out)
+- Global Component (3): Give Us Feedback, Privacy Policy, Facebook Like Button
+- Global Component (4):
+    - Data points:
+- Participant Profile Picture
+- Participant Name
+- Class Name
+- Total Pledged
+- Unit Type
+- My Goal
+- How many “Days Left!” until the Fun Run date
+- Copy & Share link
+- School goal:
+    - Funds raised for purpose
+    - Pictures (images that are uploaded that cycle through if multiple on front end)Asd
+    - Hyperlinks:
+- Edit My Page
+- Share Pledge Link
+- ENTER PLEDGE(S)
+- EDIT
+- Ask Previous Sponsors
+- Share on Facebook
+- Global Component (5):
+- Admin
+- Programs
+- Users
+- User Groups
+- Schools
+- Prizes
+- Prize List
+- Tasks
+    - Task Lists
+    - Task Templates
+- Admin Reports
+    - All Programs - All Pledges (CSV)
+    - Programs Summary (CSV)
+    - Merchant Deposit Summary (CSV)
+- Transaction Fixes
+- Test Payment Emails
+- Admin Stats
+- Student Star
+- Ads
+- System Alert
+- My Profile
+- Logout
+- Global Component (6):
+- Program Name (Not a hyperlink)
+- Dashboard
+- To Do
+- Pledges
+- Prizes
+- Participants
+- Teachers
+- Sponsors
+- Parents
+- Classes
+- Reports
+- Communications (Dropdown)
+    - Parent Collection Letter and Email - Follow Up Day
+    - Parent Collection Letter and Email - After Collections 1 & 2
+    - Unpaid Sponsor Payment Request - After Collection #1
+    - Unpaid Sponsor Payment Request - After Collection #2
+    - Sponsor Thank You Email - After Collection #2
+- Payments
+- Help Requests
+- Collections
+- View School
+- Edit
+- Global Component (7):
+    - Data points:
+- Participant Profile Picture
+- Participant Name
+- Total Pledged
+- Unit Type
+- My Goal (If participant hasn’t met their goal yet)
+- How many “Days Left!” until the Fun Run date
+- Copy & Share link
+- School goal:
+    - Funds raised for purpose
+    - Pictures (images that are uploaded that cycle through if multiple on front end)
+    - Hyperlinks:
+- ENTER PLEDGE
+- Share Pledge Link
+- Share on Facebook
+- Global Component (8):
+- Program Name
+- Program Picture
+
+## Additional Components (Tooltips)
+
+- Birthday Field: “Your date of birth helps us provide you with the right experience for your age. We we will not display it.”
+- Email Field: ”We ask for your email to send you pledge notifications and payment details.”
+- Online Processing Fee: ”The online processing fee is paid to Boosterthon for online payments.”
+- Phone Number Field: ”If needed, we use this to confirm pledge & payment details.”
+- Phone Number Field (Edit Sponsor Info): ”We ask for your phone number to confirm high value pledges.”
+- Totals for PPLs: ”The range is based on 30 lap minimum and 35 lap maximum.”
+- Rewards Page Btns (Non-Pending Pledges and Pending Pledges): “Go to My Pledges”
+- Rewards Page Btn (Pending Pledges): “Some pledges are marked as pending depending on a variety of criteria to ensure sponsors and parents are aware of the pledge amount. The Booster Team will contact parents and sponsors via phone and email to confirm pending pledges. Once the pledges are confirmed, the participant will receive the prize(s).”
+- My Pledges - Pending Pledge: “The pledge needs to be confirmed by a Boosterthon team member. See "Help" for more details.”
+- My Pledges - Payment Scheduled: “The online payment for this pledge has been scheduled to be processed after the event. This pledge counts towards earning rewards.”
+- My Pledges - Paid Pledge: “This pledge has been paid online”.
+- Totals “Pending Pledges” box: “Some pledges are marked as pending depending on a variety of criteria to ensure sponsors and parents are aware of the pledge amount. The Booster Team will contact parents and sponsors via phone and email to confirm pending pledges. Once the pledges are confirmed, the participant willreceive the prize(s).”
+- Delete box on the My Pledges Page: “Delete this comment.”
